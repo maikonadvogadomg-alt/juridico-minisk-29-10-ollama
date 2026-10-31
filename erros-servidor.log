@@ -1,0 +1,6 @@
+[31/10/2026, 10:59:34] POST /api/voice-chat
+[Voice Chat] Error: fetch failed
+
+[31/10/2026, 10:59:34] POST /api/voice-chat
+Respondeu 500: {"message":"Erro ao processar conversa"}
+
